@@ -1,2 +1,2 @@
 # CALCULATOR
-Programm based Calculator.
+Programme based Calculator.
