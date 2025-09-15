@@ -13,7 +13,6 @@ let screen = document.querySelector(".screen");
 ac.addEventListener("click",function(){
     console.log(" data cleared!");
     screen.value = "";
-
 })
 
 let lpar = document.querySelector(".btn1");
